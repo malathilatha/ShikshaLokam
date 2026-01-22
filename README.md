@@ -1,11 +1,11 @@
 # ShikshaLokam
 Offline generative AI for education using on-device LLMs (no cloud, no internet).
 
-# 🎓 PathShala AI: India's 100% Offline AI Teaching Assistant
+# PathShala AI: India's 100% Offline AI Teaching Assistant
 
 PathShala AI is a revolutionary educational tool designed to bring advanced generative AI to the "last mile" of education. It works completely offline, ensuring that students and teachers in rural or low-connectivity areas have access to high-quality teaching strategies without needing an internet connection.
 
-## 🌟 Key Features
+## Key Features
 
 - **100% Offline**: Once initialized, the AI model runs locally on your device. No data leaves your machine.
 - **Bilingual Support**: Full support for both **English** and **Hindi**.
@@ -13,14 +13,14 @@ PathShala AI is a revolutionary educational tool designed to bring advanced gene
 - **High Performance**: Optimized using **Llama 3.2 1B**, balancing intelligence with low RAM usage (~900MB).
 - **Privacy First**: No tracking, no cloud storage, and no data mining.
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 - **Frontend**: Vanilla HTML5, CSS3 (Glassmorphism design), and JavaScript.
 - **AI Engine**: [WebLLM](https://webllm.mlc.ai/) (Apache TVM) for in-browser inference.
 - **Large Language Model**: Llama-3.2-1B-Instruct (Quantized for the web).
 - **Hardware Acceleration**: WebGPU API for native performance inside the browser.
 
-## 🚀 How to Run
+## How to Run
 
 For the hackathon demonstration, you only need one file:
 
