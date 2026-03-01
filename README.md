@@ -1,7 +1,10 @@
-# ShikshaLokam
-Offline generative AI for education using on-device LLMs (no cloud, no internet).
+# The Problem
+Free online AI (ChatGPT, Gemini) is useless without internet.
+Offline AI tools (Ollama, LM Studio) require software installation, terminal access, and admin rights.
+Rural school teachers have neither reliable internet nor IT support.
+PathShala AI fills this gap — AI that works offline and requires nothing more than opening a file in Chrome.
 
-# PathShala AI: India's 100% Offline AI Teaching Assistant
+# PathShala AI: 100% Offline AI Teaching Assistant
 
 PathShala AI is a revolutionary educational tool designed to bring advanced generative AI to the "last mile" of education. It works completely offline, ensuring that students and teachers in rural or low-connectivity areas have access to high-quality teaching strategies without needing an internet connection.
 
@@ -29,3 +32,10 @@ For the hackathon demonstration, you only need one file:
 3.  Click **"Start AI Model"**.
     - *Note: On the first run, it will download the ~900MB model. This will be cached automatically.*
     - *Subsequent runs will load instantly and works 100% offline.*
+  
+## Example Use Cases
+
+"How do I explain fractions to Grade 3 students who aren't getting it?"
+"My class is distracted. Suggest a quick re-engagement activity."
+"Explain photosynthesis in simple Hindi for rural children."
+"What's a better way to teach multiplication tables without rote learning?"
