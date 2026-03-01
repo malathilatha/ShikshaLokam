@@ -35,7 +35,7 @@ For the hackathon demonstration, you only need one file:
   
 ## Example Use Cases
 
-"How do I explain fractions to Grade 3 students who aren't getting it?"
-"My class is distracted. Suggest a quick re-engagement activity."
-"Explain photosynthesis in simple Hindi for rural children."
-"What's a better way to teach multiplication tables without rote learning?"
+1. "How do I explain fractions to Grade 3 students who aren't getting it?"
+2. "My class is distracted. Suggest a quick re-engagement activity."
+3. "Explain photosynthesis in simple Hindi for rural children."
+4. "What's a better way to teach multiplication tables without rote learning?"
