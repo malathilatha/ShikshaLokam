@@ -2,7 +2,7 @@
 Free online AI (ChatGPT, Gemini) is useless without internet.
 Offline AI tools (Ollama, LM Studio) require software installation, terminal access, and admin rights.
 Rural school teachers have neither reliable internet nor IT support.
-PathShala AI fills this gap — AI that works offline and requires nothing more than opening a file in Chrome.
+PathShala AI fills this gap, AI that works offline and requires nothing more than opening a file in Chrome.
 
 # PathShala AI: 100% Offline AI Teaching Assistant
 
